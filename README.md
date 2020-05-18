@@ -1,2 +1,0 @@
-# DarkModeReact
-Created with CodeSandbox
