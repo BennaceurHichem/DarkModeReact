@@ -32,7 +32,7 @@ body.dark-mode {
 
 .navbar {
   display: flex;
-  background-color: salmon;
+  background-color: lightseagreen;
   padding: 20px;
 }
 
@@ -41,6 +41,9 @@ body.dark-mode {
 
   h1 {
     font-size: 1.6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 }
 

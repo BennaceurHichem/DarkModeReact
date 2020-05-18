@@ -1,7 +1,11 @@
 import React from "react";
 
 const Content = ({ checked, onChange }) => (
+
+
+ 
   <div className="content">
+  <h1 >Hello from Content Component </h1>
     <p>
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
